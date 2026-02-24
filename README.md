@@ -3,7 +3,7 @@
         By Mark Spencer <markster@digium.com> and the Asterisk.org developer community.
         Copyright (C) 2001-2021 Sangoma Technologies Corporation and other copyright holders.
 ```
-## SECURITY
+## SECURITY!!!
 
   It is imperative that you read and fully understand the contents of
 the security information document before you attempt to configure and run
